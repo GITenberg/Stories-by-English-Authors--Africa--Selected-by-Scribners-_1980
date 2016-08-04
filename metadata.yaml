@@ -1,0 +1,60 @@
+_repo: Stories-by-English-Authors--Africa--Selected-by-Scribners-_1980
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+  - agent_name: Addleshaw, Percy
+    alias: Hemingway, Percy
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '6227'
+    url: http://www.gutenberg.org/2009/agents/6227
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Addleshaw
+  - agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+  - agent_name: Scully, W. C. (William Charles)
+    alias: Scully, William Charles
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '6225'
+    url: http://www.gutenberg.org/2009/agents/6225
+  - agent_name: Landers, J.
+    gutenberg_agent_id: '6226'
+    url: http://www.gutenberg.org/2009/agents/6226
+description: ''
+gutenberg_bookshelf:
+- Short Stories
+- Africa
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Africa -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The mystery of Sasassa Valley -- Long odds -- King Bemba's Point,
+  a West African story -- Ghamba -- Mary Musgrave -- Gregorio.
+title: 'Stories by English Authors: Africa (Selected by Scribners)'
+url: http://www.gutenberg.org/ebooks/1980
