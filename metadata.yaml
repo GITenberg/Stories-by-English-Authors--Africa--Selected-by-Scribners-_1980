@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--Africa--Selected-by-Scribners-_1980
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Doyle, Arthur Conan
@@ -37,7 +37,12 @@ contributor:
   - agent_name: Landers, J.
     gutenberg_agent_id: '6226'
     url: http://www.gutenberg.org/2009/agents/6226
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1980#Stories-by-English-Authors--Africa--Selected-by-Scribners-
 gutenberg_bookshelf:
 - Short Stories
 - Africa
